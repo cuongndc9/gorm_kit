@@ -21,4 +21,3 @@ go run main.go
 
 MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
-<!-- INSPIRATIONAL_QUOTE_START -->\nDiscomfort is the currency of your dreams.\n🐶\n<!-- INSPIRATIONAL_QUOTE_END -->
