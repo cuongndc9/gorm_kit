@@ -1,4 +1,4 @@
-module github.com/103cuong/gorm_kit
+module github.com/cuongndc9/gorm_kit
 
 go 1.14
 
