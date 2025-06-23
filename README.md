@@ -20,5 +20,5 @@ MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "A person who never made a mistake never tried anything new." - Albert Einstein
+> "We may encounter many defeats but we must not be defeated." - Maya Angelou
 <!-- INSPIRATIONAL_QUOTE_END -->
