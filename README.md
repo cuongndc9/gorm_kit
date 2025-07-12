@@ -20,5 +20,5 @@ MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "People who are crazy enough to think they can change the world, are the ones who do." - Rob Siltanen
+> "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
 <!-- INSPIRATIONAL_QUOTE_END -->
